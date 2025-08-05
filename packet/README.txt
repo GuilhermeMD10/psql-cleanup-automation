@@ -1,0 +1,17 @@
+--Instrucoes aplicacao
+
+--COMPILAR FICHEIROS NA SEGUINTE ORDEM
+--
+--functions1_GH
+--
+--functions1_GH
+--
+--functions3_GH
+--
+--procedure_principal_GH
+--
+--CTRL_HIST_TABELAS
+--
+--procedure_recorrente_GH
+--
+--procedimento principal GESTAO_HISTORICO corre sobre todas as linhas da tabela de gestao de historico dentro do procedure RECORRENCIA_HISTORICO
